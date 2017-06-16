@@ -8,5 +8,6 @@ I built a simple gender classification program on Python. The code uses scikit-l
 - scipy
 
 ##Usage
+
 Run the script in terminal via
-python demo.py
+'python demo.py'
