@@ -8,12 +8,13 @@ X = [[181, 80, 44], [177, 70, 43], [160, 60, 38], [154, 54, 37], [166, 65, 40],
 Y = ['male', 'male', 'female', 'female', 'male', 'male', 'female', 'female',
      'female', 'male', 'male']
 
+#store decision tree model
 clf = tree.DecisionTreeClassifier()
-# CHALLENGE - ...and train them on our data
+
+# Train data on decision tree
 clf = clf.fit(X,Y)
 
+# Input new body dataset below
 prediction = clf.predict([[182, 80, 43]])
-
-#compare their reusults and print the best one!
 
 print(prediction)
