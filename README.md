@@ -1,5 +1,5 @@
 # gender_classficiaion
-Simple gender classification program for Intro to Data Science #1
+Intro to Data Science #1 - Simple Gender Classification Model
 
 ##Overview
 
