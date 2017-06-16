@@ -1,4 +1,4 @@
-# gender_classficiaion
+# gender_classification
 Intro to Data Science #1 - Simple Gender Classification Model
 
 ##Overview
@@ -13,4 +13,5 @@ I built a simple gender classification program on Python. The code uses scikit-l
 ##Usage
 
 Run the script in terminal via
+
 `python demo.py`
