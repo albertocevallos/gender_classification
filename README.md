@@ -1,5 +1,5 @@
 # gender_classification
-Intro to Data Science #1 - Simple Gender Classification Model
+Simple Gender Classification Model
 
 ##Overview
 
